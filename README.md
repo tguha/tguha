@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-About me
-🎓 Cal Poly '25 | CS + 3D Graphics 
-🎮 Currently developing Ludico, an AI-assisted browser-based 2D game engine.
+
